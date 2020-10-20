@@ -1,6 +1,6 @@
 {
   "name": "@ronnychristensen/rainbowlog",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "creates a colorful console",
   "main": "index.js",
   "scripts": {
