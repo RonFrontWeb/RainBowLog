@@ -1,0 +1,23 @@
+{
+  "name": "rainbowlog",
+  "version": "1.0.0",
+  "description": "creates a colorful console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonFrontWeb/RainBowLog.git"
+  },
+  "keywords": [
+    "console",
+    "colors"
+  ],
+  "author": "ronny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RonFrontWeb/RainBowLog/issues"
+  },
+  "homepage": "https://github.com/RonFrontWeb/RainBowLog#readme"
+}
